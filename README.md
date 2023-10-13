@@ -51,12 +51,10 @@ Others importants libs was used also:
 - Polished;
 - React Icons.
 
-## About the author
-The entire app was made by me.
+
 
 All Data Provided By [SWAPI](https://swapi.dev/)
 
-[LinkedIn](https://www.linkedin.com/in/kameikay/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
